@@ -1,6 +1,12 @@
 # TaskMate — Simple To-Do List App
 
 TaskMate is a lightweight and easy-to-use to-do list app that helps you keep track of your daily tasks without any distractions. It’s designed for people who just want a clean, straightforward way to stay organized.
+
+## Preview
+<img width="1920" height="970" alt="82052_636910923" src="https://github.com/user-attachments/assets/180eff5c-18ae-4699-9ec8-952ca53c400a" />
+
+
+
 ## Features
 - Add Tasks – Quickly add new tasks to your list
 - Delete Tasks – Remove tasks you no longer need
