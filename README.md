@@ -15,3 +15,4 @@ TaskMate is a lightweight and easy-to-use to-do list app that helps you keep tra
 - 
 ## Why TaskMate?
 TaskMate focuses on the basics — no complicated tools, no clutter. Just a simple and reliable way to manage your daily tasks directly in your browser.Stay organized. Stay productive. Keep it simple with TaskMate.
+
